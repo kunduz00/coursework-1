@@ -171,5 +171,9 @@ section {
 	padding: 19px, 3px, 19px, 3px;
 	gap: 10px;
 }
-
+<fieldset>
+<legend>Заголовок рамки</legend>
+<p>Текст внутри рамки</p>
+</fieldset>
+Источник: https://uchet-jkh.ru/i/kak-sdelat-prozracnyi-tekst
 
